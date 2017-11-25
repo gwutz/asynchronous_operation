@@ -1,4 +1,0 @@
-[01m[K../../../../../../../../../Projects/async_operation/src/main.c:[m[K In function ‘[01m[Kready_cb[m[K’:
-[01m[K../../../../../../../../../Projects/async_operation/src/main.c:68:14:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kptr[m[K’ [[01;35m[K-Wunused-variable[m[K]
-   GPtrArray *[01;35m[Kptr[m[K = my_long_running_operation_finish (res, NULL);
-              [01;35m[K^~~[m[K
